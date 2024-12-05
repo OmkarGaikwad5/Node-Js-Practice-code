@@ -1,3 +1,3 @@
-const lovish = require("./second");
+const Omkar = require("./second");
 
-console.log("Hello world", lovish)
+console.log("Hello world", Omkar)
